@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+table{
+	margin: auto;
+		padding: 0px;
+			margin-top: 50px;
+}
+
+td{
+	border-bottom: 1px solid #CCC;
+		margin: 0px;
+}
+
+td.ver{
+	background-color: #FFF2E6;
+		text-align: center;
+			font-weight:bold;
+}
+
+td.centro{
+	text-align: center;
+}
+
+img{
+	border-radius: 50%; 
+		border: 1px solid #CCC;}
+
+span.paises{
+	margin-left: 15px;
+		vertical-align: center;
+}
+
+td.position{
+	text-align: center;
+}
+
+td.grey {
+	background-color: #CCC;
+}
+
+td.grei{
+	text-align: center;
+		background-color: #CCC;
+}
+
+span img#flutua{
+	position: fixed;
+		margin-top: 0px;
+			margin-left: 739px;
+				border: none;
+}
+
+span img#bronze{
+	position: fixed;
+		margin-top: 0px;
+			margin-left: 899px;
+				border: none;
+}
+
+span img#prata{
+	position: fixed;
+		margin-top: 7px;
+			margin-left: 835px;
+				border: none;
+}
